@@ -200,7 +200,7 @@ class LocalPlanner:
 ######################################################
 
 def transform_paths(paths, ego_state):
-    """ Converts the to the global coordinate frame.
+    """ Converts the paths to the global coordinate frame.
     Converts the paths from the local (vehicle) coordinate frame to the
     global coordinate frame.
     args:
