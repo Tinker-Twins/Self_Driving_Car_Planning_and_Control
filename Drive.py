@@ -668,9 +668,8 @@ def exec_waypoint_nav_demo(args):
 
             ###
             # Local Planner Update:
-            #   This will use the Behavioural_Planner.py and local_planner.py
-            #   implementations that the learner will be tasked with in
-            #   the Course 4 final project
+            #   This will use the Behavioural_Planner.py and Local_Planner.py
+            #   implementations.
             ###
 
             # Obtain Lead Vehicle information
