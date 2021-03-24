@@ -338,7 +338,7 @@ def exec_waypoint_nav_demo(args):
 
         #########################################################
         # Load stop sign and parked vehicle parameters
-        # Convert to input parameterss for LP
+        # Convert to input parameters for LP
         #########################################################
         # Stop sign (X(m), Y(m), Z(m), Yaw(deg))
         stopsign_data = None
