@@ -22,3 +22,4 @@ The global plan was manually incorporated as a list of waypoints and a local pla
 - `Controller.py` is used to implement the lateral and longitudinal controllers for tracking the generated trajectory.
 - `Drive.py` hosts the simulation parameters, connects with the simulator and runs the entire motion planning and control pipeline for autonomous driving.
 - `Live_Plotter.py` generates and updates plots of the vehicle states and trajectory in real-time.
+- `Results` directory hosts the results of a complete trajectory tracking mission in form of plots and log files.
