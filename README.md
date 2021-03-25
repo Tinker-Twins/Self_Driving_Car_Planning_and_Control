@@ -1,5 +1,9 @@
 # Motion Planning and Control of Self-Driving Car
 
+<p align="center">
+<img src="https://github.com/Tinker-Twins/Self_Driving_Car_Planning_and_Control/blob/main/Media/Motion%20Planning%20and%20Control.gif"><br>
+</p>
+
 ## Project Overview
 
 <p align="justify">
